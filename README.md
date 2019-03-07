@@ -12,5 +12,5 @@
 
 - [x] 对刚接触SpringMVC的同学提供一些帮助，理解DispatcharServlet，HandlerMapping，Controller和ModelAndView之间的关系，和请求到来的流程
 - [x] 粗糙的实现DispatcharServlet，HandlerMapping，Controller
-- [] 降低DispatcherService对Config的耦合
+- [ ] 降低DispatcherService对Config的耦合
 
